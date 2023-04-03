@@ -1,6 +1,4 @@
-<head>
 	<title>My GitHub Repository for 42 Core Curriculum Projects</title>
-</head>
 <body>
 	<h1>README for 42 Core Curriculum Projects</h1>
 <p>Welcome to my repository containing all of the projects I completed as part of the 42 Core Curriculum! Each project is designed to challenge me in a specific area of software development and help me develop the skills needed to become a successful programmer.</p>
